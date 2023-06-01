@@ -1,6 +1,4 @@
-/*!
- * Author: Akash Bhadange
- */
+
  .pics li img{padding: 2% 4% 2% 4%;}
 
  body {
@@ -46,7 +44,7 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: url(hero-bg5.jpg) no-repeat center center fixed;
+  background: url(https://fakeprof.github.io/Baeckerei-die-Drei/hero-bg5.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -211,11 +209,11 @@ h1.heading.pink:after {
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
 }
 .swiper-button-next, .swiper-container-rtl .swiper-button-prev {
-  background-image: url(../assets/arrow-right.png);
+  background-image: url(https://fakeprof.github.io/Baeckerei-die-Drei/arrow-right.png);
   right: -40px;
 }
 .swiper-button-prev, .swiper-container-rtl .swiper-button-next {
-  background-image: url(../assets/arrow-left.png);
+  background-image: url(https://fakeprof.github.io/Baeckerei-die-Drei/arrow-left.png);
   left: -40px;
 }
 
@@ -282,7 +280,7 @@ h1.heading.pink:after {
 
 /* Contact Banner */
 .contact-banner {
-  background: url(IMG_6322.JPG) ;
+  background: url(https://fakeprof.github.io/Baeckerei-die-Drei/IMG_6322.JPG) ;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
